@@ -37,8 +37,10 @@ public class Feature5Service {
                 return "Light cotton kurtas, churidars, and simple salwar suits are everyday "
                     + "staples across many regions.";
             case "dance":
-                return "Classical dance forms have specific costumes — for example, Bharatanatyam "
-                    + "often uses bright silk with a bold gold border.";
+                return "Classical dance forms use distinct costume traditions: Bharatanatyam uses "
+                    + "pleated silk with temple jewellery, Kathakali uses layered dramatic attire, "
+                    + "Kathak uses flowing anarkali-style silhouettes, and Odissi often features "
+                    + "ikat silk with silver ornaments.";
             case "winter":
                 return "Layer a warm shawl or stole over your outfit. Woollen angrakhas and "
                     + "shawls are popular for North India winters.";
